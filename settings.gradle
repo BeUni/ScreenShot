@@ -1,3 +1,3 @@
-rootProject.name='screenShot'
+rootProject.name='Example'
 include ':app'
-include ':screen_shot'
+include ':screenshot'
